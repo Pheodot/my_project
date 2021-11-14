@@ -6,5 +6,6 @@
 
 set_1 = {1, 2, 3, 4}
 set_2 = {2, 3, 4, 5}
-print("set_1 является суперсетом для set_2" if set_1.issuperset(set_2) else "set_1 не является суперсетом для set_2")
+print("True" if set_1 >= set_2 else "False")
+
 
