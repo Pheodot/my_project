@@ -27,3 +27,22 @@ second = int(input("Введите второе чиcло : "))
 operation = input("Введите знак + (плюс), - (минус), * (умножить), / (делить) ")
 
 print(arithmetic(first, second, operation))
+
+# def arithmetic(first, second, operation):
+#     match operation:
+#         case "+":
+#             return first + second
+#         case "-":
+#             return first - second
+#         case "*":
+#             return first * second
+#         case "/":
+#             return first / second
+#         case _:
+#             return "Неизвестная операция"
+#
+# first = int(input("Введите первое число : "))
+# second = int(input("Введите второе чиcло : "))
+# operation = input("Введите знак + (плюс), - (минус), * (умножить), / (делить) ")
+#
+# print(arithmetic(first, second, operation))
