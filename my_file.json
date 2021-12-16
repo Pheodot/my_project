@@ -1,0 +1,15 @@
+{
+  "items": [{
+    "name": "Первый",
+    "ingredients": "Первое",
+    "cookWay": "Первые"
+  }, {
+    "name": "Второй",
+    "ingredients": "Второе",
+    "cookWay": "Вторые"
+  }, {
+    "name": "Третий",
+    "ingredients": "Третье",
+    "cookWay": "Третьи"
+  }]
+}
